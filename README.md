@@ -46,7 +46,6 @@ AI troubleshooting assistant built with LangGraph and LangChain, using tool call
 
 ## Highlights
 
-- Software Engineering student at Adama Science and Technology University
 - 2nd place, AI Agent Hackathon at CSEC-ASTU
 - Member of CSEC-ASTU Development Division
 
