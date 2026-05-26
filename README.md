@@ -52,10 +52,24 @@ AI troubleshooting assistant built with LangGraph and LangChain, using tool call
 
 <div align="center">
 
-## GitHub Snapshot
+## GitHub Dashboard
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=haile19-b&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haile19-b&theme=tokyonight&hide_border=true&layout=compact" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=haile19-b&theme=github_dark&hide_border=false&border_color=30363d&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=HaileGebriel's%20GitHub%20Stats" />
+
+<br />
+<br />
+
+<img height="180" src="https://streak-stats.demolab.com?user=haile19-b&theme=github-dark-blue&hide_border=false&border=30363D&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" />
+
+<br />
+<br />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haile19-b&theme=github_dark&hide_border=false&border_color=30363d&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" />
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haile19-b&theme=github-dark&hide_border=false&border_color=30363d&area=true&custom_title=Contribution%20Activity" />
 
 <br />
 
